@@ -98,7 +98,7 @@ Developing a complete playable game in only a few weeks also taught me how to:
 
 <p align="center">
   <img src="img/Reverbs 1.png" width="45%">
-  <img src="YOUR_SCREENSHOT_LINK" width="45%">
+  <img src="img/Screenshot_1.png" width="45%">
 </p>
 
 ---
@@ -107,7 +107,7 @@ Developing a complete playable game in only a few weeks also taught me how to:
 
 <!-- Add your gameplay video or GIF here -->
 
-[Watch the gameplay video](YOUR_VIDEO_LINK)
+[Watch the gameplay video](https://drive.google.com/file/d/1LmHO8p-pqVv-TEcx2L9kexWybRiJxO8_/view?usp=drive_link)
 
 ---
 
