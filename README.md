@@ -1,4 +1,4 @@
-# Hi, I'm Fares Raouazi 👋
+# Hi, I'm Fares Raouazi 
 
 ### Gameplay Programmer | Game Development Student
 
@@ -10,7 +10,7 @@ I'm currently looking to improve my programming skills and gain more experience 
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### Programming
 - **C++**
@@ -31,9 +31,9 @@ I'm currently looking to improve my programming skills and gain more experience 
 
 ---
 
-# 🎮 Featured Project
+# Featured Project
 
-## Mini Studio
+## Reverbs
 
 > **Puzzle Platformer — C++ — Custom Engine**
 
@@ -44,7 +44,7 @@ Players must use the unique mechanics of different characters to solve puzzles a
 
 The project was developed by a team of **13 students** over approximately **3 weeks**.
 
-### 📌 Project Details
+### Project Details
 
 | | |
 |---|---|
@@ -59,7 +59,7 @@ The project was developed by a team of **13 students** over approximately **3 we
 
 ---
 
-### 👨‍💻 My Contributions
+### My Contributions
 
 I worked as a **Gameplay Programmer** on the project.
 
@@ -77,7 +77,7 @@ The custom engine used for the project was developed by other programmers within
 
 ---
 
-### 🧠 What I Learned
+### What I Learned
 
 Working on this project taught me how to organize my work both independently and within a large development team.
 
@@ -92,7 +92,7 @@ Developing a complete playable game in only a few weeks also taught me how to:
 
 ---
 
-### 📸 Screenshots
+### Screenshots
 
 <!-- Add screenshots here -->
 
@@ -103,7 +103,7 @@ Developing a complete playable game in only a few weeks also taught me how to:
 
 ---
 
-### 🎥 Gameplay
+### Gameplay
 
 <!-- Add your gameplay video or GIF here -->
 
@@ -111,7 +111,7 @@ Developing a complete playable game in only a few weeks also taught me how to:
 
 ---
 
-## 🎓 Education
+## Education
 
 **Gaming Campus — Lyon, France**
 
@@ -120,7 +120,7 @@ Game Development
 
 ---
 
-## 🚀 Currently
+## Currently
 
 I'm continuing to develop my skills in **C++ and gameplay programming**, while working on personal and school projects to gain more experience in game development.
 
@@ -134,6 +134,6 @@ I'm particularly interested in:
 
 ---
 
-## 📫 Contact
+## Contact
 
 *Contact information will be added later.*
