@@ -107,7 +107,7 @@ Developing a complete playable game in only a few weeks also taught me how to:
 
 <!-- Add your gameplay video or GIF here -->
 
-[Watch the gameplay video](https://drive.google.com/file/d/1LmHO8p-pqVv-TEcx2L9kexWybRiJxO8_/view?usp=drive_link)
+[Watch the gameplay video](https://drive.google.com/file/d/1MDlYM1zpjlUTDcwA-1zQ6qmNuy4r4D6T/view?usp=drive_link)
 
 ---
 
