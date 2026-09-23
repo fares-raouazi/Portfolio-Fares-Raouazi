@@ -97,7 +97,7 @@ Developing a complete playable game in only a few weeks also taught me how to:
 <!-- Add screenshots here -->
 
 <p align="center">
-  <img src="img/Reverbs 1.png" width="45%">
+  <img src="Reverbs 1.png" width="45%">
   <img src="YOUR_SCREENSHOT_LINK" width="45%">
 </p>
 
